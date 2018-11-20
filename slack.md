@@ -1,4 +1,4 @@
-Below are slack messages that are sent out to each basis on a regular basis. Sometimes you just can't find the right words and so here is a curated list of messages, with the correct spattering of emojis to induce good vibes. 
+Below are the extra long slack messages that are sent out to each basis on a regular basis. Sometimes you just can't find the right words and so here is a curated list of messages, with the correct spattering of emojis to induce good vibes. 
 
 
 # Mod 1
