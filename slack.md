@@ -1,4 +1,4 @@
-# Mod 1
+<h1> Mod 1 </h1>
 ```
 manual setup: https://learn.co/tracks/web-development-immersive-2-0-module-one/introduction/manual-setup/manual-setup
 an example index page: https://ssong-eu.github.io/deploy-on-day-1-london-web-091718/
@@ -16,7 +16,7 @@ Please join the following channels:
 and #london-womxn or #women-at-flatiron or #pride-at-flatiron or #color-at-flatiron should you feel these apply to you :slightly_smiling_face: we have a women’s lunch and hangout monthly so please make sure you join the relevant groups!
 ```
 
-End of first day
+### End of first day
 ```
 Congratulations @channel on completing this first day of the rest of your lives! You are doing great already and I’m grateful for your positive attitudes. This will be an intense and difficult 15 weeks but you will do it. :typing-kermit:
 
