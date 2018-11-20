@@ -1,4 +1,5 @@
-<h1> Mod 1 </h1>
+# Mod 1
+=======
 ```
 manual setup: https://learn.co/tracks/web-development-immersive-2-0-module-one/introduction/manual-setup/manual-setup
 an example index page: https://ssong-eu.github.io/deploy-on-day-1-london-web-091718/
