@@ -1,5 +1,6 @@
 # Mod 1
-=======
+
+### For setting up
 ```
 manual setup: https://learn.co/tracks/web-development-immersive-2-0-module-one/introduction/manual-setup/manual-setup
 an example index page: https://ssong-eu.github.io/deploy-on-day-1-london-web-091718/
@@ -7,7 +8,7 @@ atom terminal plugin: https://atom.io/packages/platformio-ide-terminal (edited)
 environment checker: https://github.com/hysan/flatiron-manual-setup-validator
 Or run: curl -so- https://raw.githubusercontent.com/hysan/flatiron-manual-setup-validator/master/manual-setup-check.sh | bash 2> /dev/null
 ```
-
+### Slack channels to join
 ```
 Please join the following channels:
 #london-announce
